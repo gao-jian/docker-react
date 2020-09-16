@@ -13,6 +13,9 @@ function App() {
         <p>
           Hi to test. test react refresh. test docker-compose.
         </p>
+        <p>
+          Hi to test TravisCI, test AWS elastic beanstalk.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
